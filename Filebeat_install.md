@@ -37,6 +37,7 @@ config | /etc/filebeat/
 
 ###修改 filebeat.yml
 1. 新增一个 input 模块
+   
    ![input.jpg](http://tva1.sinaimg.cn/large/6bed307bgy1gw1qazj9eoj20h80exgq5.jpg)
    
    1. 冒号后需要一个空格，配置项大小写敏感
